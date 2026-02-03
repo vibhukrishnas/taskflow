@@ -363,10 +363,3 @@ App runs on: `http://localhost:3000`
 
 MIT
 
-## 👨‍💻 Author
-
-Built for Frontend Developer Intern Assignment
-
----
-
-**Note:** This is a demo application for educational/interview purposes. Do not use in production without implementing proper security measures and thorough testing.
